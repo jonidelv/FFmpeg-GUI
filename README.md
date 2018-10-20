@@ -16,6 +16,11 @@ In order to run this app you need to have FFmpeg installed on your computer.
 This project was generated with [electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate).
 Refer to the docs to find more information on how to perform common tasks.
 
+## Install dependencies
+
+- `npm install` or
+- `yarn`
+
 ## Run
 
 Start the app in the `dev` environment. This starts the renderer process in [**hot-module-replacement**](https://webpack.js.org/guides/hmr-react/) mode and starts a webpack dev server that sends hot updates to the renderer process:
