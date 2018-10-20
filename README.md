@@ -1,12 +1,13 @@
 # FFmpeg GUI
 
-![screenshot](/app/assets/logo.png?raw=true "Screenshot")
+![screenshot](/app/assets/logo.png?raw=true 'Screenshot')
 <br>
 Basic Graphical UI that makes it easy for a user to work with FFmpeg CLI
 <br><br>
-![screenshot](/app/assets/ex.png?raw=true "Screenshot")
+![screenshot](/app/assets/ex.png?raw=true 'Screenshot')
 
 ## Install FFmpeg
+
 In order to run this app you need to have FFmpeg installed on your computer.
 [Here is a guide to install FFmpeg](https://github.com/adaptlearning/adapt_authoring/wiki/Installing-FFmpeg).
 
@@ -38,7 +39,7 @@ $ START_MINIMIZED=true yarn dev
 
 ## Packaging
 
-To package apps for the local platform:
+To package apps for the local platform (generate the installer):
 
 ```bash
 $ yarn package
