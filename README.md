@@ -1,5 +1,6 @@
-![screenshot](/app/assets/logo.png?raw=true "Screenshot") # FFmpeg GUI
+# FFmpeg GUI
 
+![screenshot](/app/assets/logo.png?raw=true "Screenshot")
 Basic Graphical UI that makes it easy for a user to work with FFmpeg CLI
 <br><br>
 ![screenshot](/app/assets/ex.png?raw=true "Screenshot")
