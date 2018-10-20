@@ -2,8 +2,13 @@
   "name": "FFmpeg-GUI",
   "productName": "FFmpegGUI",
   "version": "0.1.0",
-  "description": "Electron application boilerplate based on React, React Router, Webpack, React Hot Loader for rapid application development",
+  "description": "Basic UI for FFmpeg CLI 🎬",
   "main": "./main.prod.js",
+  "author": {
+    "name": "jonidelv",
+    "email": "hi@jonidelv.com",
+    "url": "https://github.com/jonidelv"
+  },
   "scripts": {
     "electron-rebuild": "node -r babel-register ../internals/scripts/ElectronRebuild.js",
     "postinstall": "yarn electron-rebuild"
