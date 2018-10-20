@@ -14,5 +14,10 @@
     "postinstall": "yarn electron-rebuild"
   },
   "license": "MIT",
-  "dependencies": {}
+  "dependencies": {
+    "fluent-ffmpeg": "2.1.2",
+    "lodash": "^4.17.4",
+    "moment": "^2.18.1",
+    "moment-duration-format": "^1.3.0"
+  }
 }
